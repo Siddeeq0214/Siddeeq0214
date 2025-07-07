@@ -32,3 +32,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddeeq0214/Siddeeq0214/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Siddeeq0214/Siddeeq0214/output/github-snake.svg" />
 </picture>
+
+###
+<p><img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino"></p>
