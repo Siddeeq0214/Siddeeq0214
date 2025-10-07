@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saeedsinanan23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s7moIrwXRhJC5Bhap0oMO2DZ2uF50N2v/view?usp=drive_link](https://drive.google.com/file/d/1s7moIrwXRhJC5Bhap0oMO2DZ2uF50N2v/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OUazxVZj6YHrf9wAl6_PcmGXCjWHrWie/view?usp=drive_link](https://drive.google.com/file/d/1OUazxVZj6YHrf9wAl6_PcmGXCjWHrWie/view?usp=drive_link)
 
 - ⚡ Fun fact: **In computer science, the ostrich algorithm is a strategy of ignoring potential problems on the basis that they may be exceedingly rare. It is named after the ostrich effect which is defined as "to stick one's head in the sand and pretend there is no problem". It is used when it appears the situation may be more cost-effectively managed by allowing the problem to continue to occur rather than to attempt its prevention.**
 
